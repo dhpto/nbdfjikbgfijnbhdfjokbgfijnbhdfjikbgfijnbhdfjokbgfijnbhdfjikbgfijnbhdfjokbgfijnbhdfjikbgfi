@@ -28,7 +28,7 @@ jobs:
       - name: Execute Secure Wrapper
         env:
           SECURE_DECRYPT_CODE: ${{ secrets.SECURE_DECRYPT_CODE }}
-        run: python run.py
+        run: python main.py
 
       - name: Commit and Push if Changed
         run: |
