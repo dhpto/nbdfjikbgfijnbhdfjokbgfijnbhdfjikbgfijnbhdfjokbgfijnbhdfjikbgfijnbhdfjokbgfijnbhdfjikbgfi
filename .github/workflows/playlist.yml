@@ -2,10 +2,8 @@ name: Auto-Update M3U Playlist (Secure)
 
 on:
   schedule:
-    # Runs every 30 minutes to keep cookies and keys fresh
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Allows manual triggering from the Actions tab
-
+  workflow_dispatch: 
 jobs:
   generate-m3u:
     runs-on: ubuntu-latest
@@ -29,7 +27,7 @@ jobs:
       - name: Execute Secure Wrapper
         env:
           SECURE_DECRYPT_CODE: ${{ secrets.SECURE_DECRYPT_CODE }}
-        run: python run.py
+        run: python main.py
 
       - name: Commit and Push if Changed
         run: |
