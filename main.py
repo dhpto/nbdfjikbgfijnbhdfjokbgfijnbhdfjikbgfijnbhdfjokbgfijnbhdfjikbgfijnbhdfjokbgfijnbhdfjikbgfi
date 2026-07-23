@@ -14,10 +14,7 @@ def main():
         protected_module = types.ModuleType("dynamic_sports_generator")
         exec(raw_script_code, protected_module.__dict__)
         print("[+] Secure context loaded in memory. Executing payload...")
-        
-        # Call the main function from the hidden script
         protected_module.generate_playlist()
-        
     except Exception as err:
         print(f"[-] Execution error within secure runtime layer: {err}")
         sys.exit(1)
