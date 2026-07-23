@@ -11,7 +11,7 @@ def main():
         sys.exit(1)
         
     try:
-        protected_module = types.ModuleType("dynamic_sports_generator")
+        protected_module = types.ModuleType("dynamic_decrypt")
         exec(raw_script_code, protected_module.__dict__)
         print("[+] Secure context loaded in memory. Executing payload...")
         protected_module.generate_playlist()
