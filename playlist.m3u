@@ -1,25 +1,40 @@
 #EXTM3U
-# Last Updated: 2026-07-23 21:33:20 UTC
+# Last Updated: 2026-07-23 22:46:47 UTC
 
-#EXTINF:-1 tvg-id="10788" tvg-name="[🔴 LIVE NOW] Toronto Blue Jays vs Tampa Bay Rays - CRICFy LIVE " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Toronto Blue Jays vs Tampa Bay Rays - CRICFy LIVE 
+#EXTINF:-1 tvg-id="10785" tvg-name="[🔴 LIVE NOW] Botafogo vs Vitoria - PREMIERE BR - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Botafogo vs Vitoria - PREMIERE BR - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://chatgpt.hereisman.net/playlist/53719/load-playlist
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 
-#EXTINF:-1 tvg-id="10788" tvg-name="[🔴 LIVE NOW] Toronto Blue Jays vs Tampa Bay Rays - HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Toronto Blue Jays vs Tampa Bay Rays - HD SERVER
+#EXTINF:-1 tvg-id="10786" tvg-name="[🔴 LIVE NOW] Corinthians vs Remo - PREMIERE BR - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Corinthians vs Remo - PREMIERE BR - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="10786" tvg-name="[🔴 LIVE NOW] Corinthians vs Remo - SporTV BR - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Corinthians vs Remo - SporTV BR - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 tvg-id="10790" tvg-name="[🔴 LIVE NOW] Detroit Tigers vs Kansas City Royals - HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Detroit Tigers vs Kansas City Royals - HD SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8
+https://edgestream1.pro/hls/bzagLHzach19.m3u8
 
-#EXTINF:-1 tvg-id="10788" tvg-name="[🔴 LIVE NOW] Toronto Blue Jays vs Tampa Bay Rays - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Toronto Blue Jays vs Tampa Bay Rays - CRICFy MLB
+#EXTINF:-1 tvg-id="10790" tvg-name="[🔴 LIVE NOW] Detroit Tigers vs Kansas City Royals - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Detroit Tigers vs Kansas City Royals - CRICFy MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB3
-#EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB3
+#EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB4
+#EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB4
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://instreams.live/live/MLB3/mono.m3u8
+https://instreams.pro/live/MLB4/mono.m3u8
 
 #EXTINF:-1 tvg-id="10792" tvg-name="[🔴 LIVE NOW] St. Louis Cardinals vs Arizona Diamondbacks - CRICFy LIVE " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] St. Louis Cardinals vs Arizona Diamondbacks - CRICFy LIVE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -427,38 +442,3 @@ https://in-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bd-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10785" tvg-name="[ Starting Soon] Botafogo vs Vitoria - PREMIERE BR - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Botafogo vs Vitoria - PREMIERE BR - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
-
-#EXTINF:-1 tvg-id="10786" tvg-name="[ Starting Soon] Corinthians vs Remo - PREMIERE BR - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Corinthians vs Remo - PREMIERE BR - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="10786" tvg-name="[ Starting Soon] Corinthians vs Remo - SporTV BR - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Corinthians vs Remo - SporTV BR - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-
-#EXTINF:-1 tvg-id="10790" tvg-name="[ Starting Soon] Detroit Tigers vs Kansas City Royals - HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Detroit Tigers vs Kansas City Royals - HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://edgestream1.pro/hls/bzagLHzach19.m3u8
-
-#EXTINF:-1 tvg-id="10790" tvg-name="[ Starting Soon] Detroit Tigers vs Kansas City Royals - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Detroit Tigers vs Kansas City Royals - CRICFy MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB4
-#EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB4
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://instreams.pro/live/MLB4/mono.m3u8
