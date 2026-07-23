@@ -2,11 +2,11 @@ name: Auto-Update Sports M3U (Secure)
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs every 2 hours to catch new live events
-  workflow_dispatch: # Allows manual triggering from the Actions tab
+    - cron: '0 */2 * * *' # Runs every 2 hours
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  generate-sports-m3u:
+  generate-m3u:
     runs-on: ubuntu-latest
     permissions:
       contents: write
