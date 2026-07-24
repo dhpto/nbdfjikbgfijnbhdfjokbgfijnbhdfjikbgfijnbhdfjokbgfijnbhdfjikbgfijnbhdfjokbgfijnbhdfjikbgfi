@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 20:05:33 UTC
+# Last Updated: 2026-07-24 20:10:33 UTC
 
 #EXTINF:-1 tvg-id="10796" tvg-name="[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -40,6 +40,20 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="10799" tvg-name="[🔴 LIVE NOW] Milwaukee Brewers vs Colorado Rockies - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Milwaukee Brewers vs Colorado Rockies - HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://edgestream3.pro/hls/dazhfiach15.m3u8
+
+#EXTINF:-1 tvg-id="10799" tvg-name="[🔴 LIVE NOW] Milwaukee Brewers vs Colorado Rockies - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Milwaukee Brewers vs Colorado Rockies - CRICFy MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB1
+#EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://instreams.live/live/MLB1/mono.m3u8
 
 #EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - FANCODE - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -329,20 +343,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10799" tvg-name="[ Starting Soon] Milwaukee Brewers vs Colorado Rockies - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Milwaukee Brewers vs Colorado Rockies - HD QUALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://edgestream3.pro/hls/dazhfiach15.m3u8
-
-#EXTINF:-1 tvg-id="10799" tvg-name="[ Starting Soon] Milwaukee Brewers vs Colorado Rockies - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Milwaukee Brewers vs Colorado Rockies - CRICFy MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB1
-#EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://instreams.live/live/MLB1/mono.m3u8
-
 #EXTINF:-1 tvg-id="10800" tvg-name="[ Starting Soon] Pittsburgh Pirates vs Chicago Cubs - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Pittsburgh Pirates vs Chicago Cubs - HD QUALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -413,42 +413,42 @@ https://edgestream1.pro/hls/jkzahzadach20.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.live/live/MLB6/mono.m3u8
 
-#EXTINF:-1 tvg-id="10805" tvg-name="[⚪ Upcoming] New York Mets vs Los Angeles Dodgers - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] New York Mets vs Los Angeles Dodgers - HD QUALITY
+#EXTINF:-1 tvg-id="10805" tvg-name="[ Starting Soon] New York Mets vs Los Angeles Dodgers - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] New York Mets vs Los Angeles Dodgers - HD QUALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8
 
-#EXTINF:-1 tvg-id="10805" tvg-name="[⚪ Upcoming] New York Mets vs Los Angeles Dodgers - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] New York Mets vs Los Angeles Dodgers - CRICFy MLB
+#EXTINF:-1 tvg-id="10805" tvg-name="[ Starting Soon] New York Mets vs Los Angeles Dodgers - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] New York Mets vs Los Angeles Dodgers - CRICFy MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB8
 #EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.live/live/MLB8/mono.m3u8
 
-#EXTINF:-1 tvg-id="10806" tvg-name="[⚪ Upcoming] Tampa Bay Rays vs Cleveland Guardians - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Tampa Bay Rays vs Cleveland Guardians - HD QUALITY
+#EXTINF:-1 tvg-id="10806" tvg-name="[ Starting Soon] Tampa Bay Rays vs Cleveland Guardians - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Tampa Bay Rays vs Cleveland Guardians - HD QUALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream3.pro/hls/ojzkajnach21.m3u8
 
-#EXTINF:-1 tvg-id="10806" tvg-name="[⚪ Upcoming] Tampa Bay Rays vs Cleveland Guardians - CRICFy MLB " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Tampa Bay Rays vs Cleveland Guardians - CRICFy MLB 
+#EXTINF:-1 tvg-id="10806" tvg-name="[ Starting Soon] Tampa Bay Rays vs Cleveland Guardians - CRICFy MLB " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Tampa Bay Rays vs Cleveland Guardians - CRICFy MLB 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB7
 #EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB7
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.live/live/MLB7/mono.m3u8
 
-#EXTINF:-1 tvg-id="10807" tvg-name="[⚪ Upcoming] Miami Marlins vs San Diego Padres - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Miami Marlins vs San Diego Padres - HD QUALITY
+#EXTINF:-1 tvg-id="10807" tvg-name="[ Starting Soon] Miami Marlins vs San Diego Padres - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Miami Marlins vs San Diego Padres - HD QUALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream2.pro/hls/ijfnakfidch22.m3u8
 
-#EXTINF:-1 tvg-id="10807" tvg-name="[⚪ Upcoming] Miami Marlins vs San Diego Padres - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Miami Marlins vs San Diego Padres - CRICFy MLB
+#EXTINF:-1 tvg-id="10807" tvg-name="[ Starting Soon] Miami Marlins vs San Diego Padres - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Miami Marlins vs San Diego Padres - CRICFy MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB9
 #EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB9
