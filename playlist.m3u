@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 13:55:33 UTC
+# Last Updated: 2026-07-24 14:00:51 UTC
 
 #EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -75,6 +75,78 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1784350679~acl=*dash%2flive%2f20937
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - WILLOW - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
+
+#EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - SKY CRICKET - AQ
+#EXTVLCOPT:http-user-agent=Mozilla
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+
+#EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - WILLOW - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
+
+#EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - TAPMAD - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tapmad.com
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - SKY SPORT NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+
+#EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - LOW SERVER" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - WILLOW - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - WILLOW - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - WILLOW - ALT" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - WILLOW - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - FANCODE - IN" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - FANCODE - IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://in-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - FANCODE - BD" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - FANCODE - BD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bd-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - WILLOW HD" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - WILLOW HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - LOW SERVER" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - FANCODE - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -274,78 +346,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - WILLOW - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
-
-#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - SKY CRICKET - AQ
-#EXTVLCOPT:http-user-agent=Mozilla
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-
-#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - WILLOW - ALT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
-
-#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - TAPMAD - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tapmad.com
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - SKY SPORT NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
-
-#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - LOW SERVER" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[ Starting Soon] Global Super League - WILLOW - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] Global Super League - WILLOW - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[ Starting Soon] Global Super League - WILLOW - ALT" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] Global Super League - WILLOW - ALT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[ Starting Soon] Global Super League - FANCODE - IN" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] Global Super League - FANCODE - IN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://in-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[ Starting Soon] Global Super League - FANCODE - BD" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] Global Super League - FANCODE - BD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bd-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[ Starting Soon] Global Super League - WILLOW HD" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] Global Super League - WILLOW HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="10780" tvg-name="[ Starting Soon] Global Super League - LOW SERVER" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] Global Super League - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="10794" tvg-name="[⚪ Upcoming] Galle Gallants vs Kandy Royals - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Galle Gallants vs Kandy Royals - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
