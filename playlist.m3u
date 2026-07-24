@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 08:55:39 UTC
+# Last Updated: 2026-07-24 09:00:54 UTC
 
 #EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -501,7 +501,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10814" tvg-name="[⚪ Upcoming] FC Barcelona vs CE Europa - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] FC Barcelona vs CE Europa - 
+#EXTINF:-1 tvg-id="10814" tvg-name="[ Starting Soon] FC Barcelona vs CE Europa - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] FC Barcelona vs CE Europa - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
