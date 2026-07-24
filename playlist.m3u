@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 17:55:31 UTC
+# Last Updated: 2026-07-24 18:00:46 UTC
 
 #EXTINF:-1 tvg-id="10796" tvg-name="[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -70,6 +70,13 @@ https://live2.streambylivepulse.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://193.47.62.48/hls/kkkk.m3u8
+
+#EXTINF:-1 tvg-id="10816" tvg-name="[🔴 LIVE NOW] FC Barcelona vs CE Europa - LaLiga TV - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title=" Live Now",[🔴 LIVE NOW] FC Barcelona vs CE Europa - LaLiga TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
 #EXTINF:-1 tvg-id="866" tvg-name="[⚪ Upcoming] Motogp - FANCODE - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] Motogp - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -568,10 +575,3 @@ https://edgestream1.pro/hls/hfzljfahzcax29.m3u8
 #EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB15
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.live/live/MLB15/mono.m3u8
-
-#EXTINF:-1 tvg-id="10816" tvg-name="[ Starting Soon] FC Barcelona vs CE Europa - LaLiga TV - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] FC Barcelona vs CE Europa - LaLiga TV - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
