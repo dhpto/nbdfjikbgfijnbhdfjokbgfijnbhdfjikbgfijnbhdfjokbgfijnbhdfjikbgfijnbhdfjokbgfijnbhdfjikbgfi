@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 15:50:37 UTC
+# Last Updated: 2026-07-24 15:55:31 UTC
 
 #EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -448,6 +448,18 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://pul-tenm.gkykp.com/live/sd-1-4529441.m3u8?txSecret=2709b5e704ff7ddea49a8dff6518aa8b&txTime=6A64D1C9
+
+#EXTINF:-1 tvg-id="10815" tvg-name="[ Starting Soon] Rosenborg BK vs Manchester United - HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Rosenborg BK vs Manchester United - HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soco.livepingscorex.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001784907787-0-0-9900b8f35daf017efb2cea82facec729
+
+#EXTINF:-1 tvg-id="10815" tvg-name="[ Starting Soon] Rosenborg BK vs Manchester United - CRICFy HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Rosenborg BK vs Manchester United - CRICFy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://soco.livepingscorex.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live2.streambylivepulse.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="10815" tvg-name="[ Starting Soon] Rosenborg BK vs Manchester United - LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Rosenborg BK vs Manchester United - LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
