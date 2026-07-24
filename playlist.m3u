@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 16:45:45 UTC
+# Last Updated: 2026-07-24 16:50:38 UTC
 
 #EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -80,8 +80,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=66b2d13bde7d42c5d5777b1d73924cc4:7fcc7b95a9b0d5f9c4b7e66ca5144b0c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/or7imczdqd/out/v1/517e9d3191b84d2bae8c802173af56b0/cenc.mpd
 
 #EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - SKY CRICKET - AQ
 #EXTVLCOPT:http-user-agent=Mozilla
@@ -92,8 +92,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76fb3f5e72115b8ca75b616604d65778:781171d5667f1ab16ef301d523eb3b12
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9l5yxzvqtw/out/v1/be0185fd0bc94e968699f64032a6e36b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=66b2d13bde7d42c5d5777b1d73924cc4:7fcc7b95a9b0d5f9c4b7e66ca5144b0c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/or7imczdqd/out/v1/517e9d3191b84d2bae8c802173af56b0/cenc.mpd
 
 #EXTINF:-1 tvg-id="10732" tvg-name="[🔴 LIVE NOW] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] The Hundred Women - TAPMAD - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
