@@ -1,9 +1,9 @@
 name: accommodation
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch: 
+  repository_dispatch:
+    types: [trigger-update]
+  workflow_dispatch:
 
 jobs:
   accommodating:
