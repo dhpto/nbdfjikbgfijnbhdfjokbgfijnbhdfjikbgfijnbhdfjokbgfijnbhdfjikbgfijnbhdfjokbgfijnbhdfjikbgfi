@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 20:10:33 UTC
+# Last Updated: 2026-07-24 20:15:40 UTC
 
 #EXTINF:-1 tvg-id="10796" tvg-name="[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -455,14 +455,14 @@ https://edgestream2.pro/hls/ijfnakfidch22.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.pro/live/MLB9/mono.m3u8
 
-#EXTINF:-1 tvg-id="10808" tvg-name="[⚪ Upcoming] Boston Red Sox vs Toronto Blue Jays - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Boston Red Sox vs Toronto Blue Jays - HD QUALITY
+#EXTINF:-1 tvg-id="10808" tvg-name="[ Starting Soon] Boston Red Sox vs Toronto Blue Jays - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Boston Red Sox vs Toronto Blue Jays - HD QUALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream1.pro/hls/fskjanach24.m3u8
 
-#EXTINF:-1 tvg-id="10808" tvg-name="[⚪ Upcoming] Boston Red Sox vs Toronto Blue Jays - CRICFy MLB " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Boston Red Sox vs Toronto Blue Jays - CRICFy MLB 
+#EXTINF:-1 tvg-id="10808" tvg-name="[ Starting Soon] Boston Red Sox vs Toronto Blue Jays - CRICFy MLB " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Boston Red Sox vs Toronto Blue Jays - CRICFy MLB 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB10
 #EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB10
