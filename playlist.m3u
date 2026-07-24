@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 10:45:44 UTC
+# Last Updated: 2026-07-24 10:50:37 UTC
 
 #EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -329,37 +329,37 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - WILLOW - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - WILLOW - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - SKY CRICKET - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - SKY CRICKET - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - SKY CRICKET - AQ
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - WILLOW - ALT
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - WILLOW - ALT" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - WILLOW - ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - TAPMAD - AQ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - TAPMAD - AQ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - TAPMAD - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tapmad.com
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - SKY SPORT NZ
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - SKY SPORT NZ" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - SKY SPORT NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
-#EXTINF:-1 tvg-id="10732" tvg-name="[⚪ Upcoming] The Hundred Women - LOW SERVER" tvg-logo="null" group-title="⚪ Upcoming",[⚪ Upcoming] The Hundred Women - LOW SERVER
+#EXTINF:-1 tvg-id="10732" tvg-name="[ Starting Soon] The Hundred Women - LOW SERVER" tvg-logo="null" group-title="🟡 Starting Soon",[ Starting Soon] The Hundred Women - LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tvsen5.aynascope.net/willowhd/index.m3u8
