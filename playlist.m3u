@@ -1,80 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 17:05:37 UTC
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - FANCODE - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SPORTSCAST - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SPORTSCAST - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/45cc4a49-1850-4d4f-a765-5f77f36b3dc0/master.m3u8
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY SPORT NZ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY SPORT NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - CRICFy LIVE " tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - CRICFy LIVE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://chatgpt.hereisman.net/playlist/53722/load-playlist
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - DAZN ESPANOL - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - DAZN ESPANOL - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pushembdz.store/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://g001.sadhoofiton.shop/out/v2/c9bf8a242f762595afad533557e538b7/index.m3u8
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY GERMAN - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY GERMAN - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pushembdz.store/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://g001.sadhoofiton.shop/out/v2/d306bca69cb626f4e54baaac4e8005dd/index.m3u8
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY SPORTS ITALY" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY SPORTS ITALY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pushembdz.store/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://g001.sadhoofiton.shop/out/v2/8c121b7272256bf76f49e5ef81b42a41/index.m3u8
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - LOW SERVER" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://193.47.62.50/hls/ZLLLQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - ELEVEN SPORTS" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - ELEVEN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
-https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - Tipik FRANCE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - Tipik FRANCE - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY SPORTS - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
-https://dice-live-oc.akamaized.net/hdntl=exp=1784350679~acl=*dash%2flive%2f2093757%2f219028-322691%2f*!*dash%2flive%2f2093757-b%2f219028-322691-b%2f*!%2fv1%2fdashsegment%2f*~id=4ff44426-fabf-4f41-ba17-eda2146d0977~data=hdntl,dWlkPWY3RVJaWnwxNjg2YzEwNC04MTc3LTQ1OGItOWEyYi00YjA2MTE1MmI0MDEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNTA3MDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=ed93423a4fb6b9fe39117bce7ae6b26e1aeb13d6d609b4b47b15516119e52f16/dash/live/2093757/219028-322691/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - TSN SPORTS - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - TSN SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+# Last Updated: 2026-07-24 17:10:41 UTC
 
 #EXTINF:-1 tvg-id="10780" tvg-name="[🔴 LIVE NOW] Global Super League - WILLOW - AQ" tvg-logo="null" group-title=" Live Now",[🔴 LIVE NOW] Global Super League - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -434,7 +359,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10799" tvg-name="[⚪ Upcoming] Milwaukee Brewers vs Colorado Rockies - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Milwaukee Brewers vs Colorado Rockies - 
+#EXTINF:-1 tvg-id="10799" tvg-name="[ Starting Soon] Milwaukee Brewers vs Colorado Rockies - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Milwaukee Brewers vs Colorado Rockies - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
