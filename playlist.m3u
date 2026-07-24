@@ -1,129 +1,129 @@
 #EXTM3U
-# Last Updated: 2026-07-24 11:25:37 UTC
+# Last Updated: 2026-07-24 11:30:39 UTC
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - FANCODE - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - TSN SPORTS - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - TSN SPORTS - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - TSN SPORTS - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - TSN SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - APPLE TV+ - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - APPLE TV+ - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - APPLE TV+ - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - APPLE TV+ - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc12b57addecba1a491e81edcbaad57:9fcf7fef82dcc6399cafdb6a96809310
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnnce28adq/out/v1/47847083b5fc4ccbb01871ee331ad8f7/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - SKY via APPLE TV" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - SKY via APPLE TV
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY via APPLE TV" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY via APPLE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51040efb59bf199bf09bcd79e4af435a:636de0aecb318b012f47eed0845f96df
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zl03cuvpb2/out/v1/7c64c4d71fae4ba7b80952ad71ed1e36/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - TSN PIT CHANNEL" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - TSN PIT CHANNEL
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - TSN PIT CHANNEL" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - TSN PIT CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=441bcbf22ad9ef1976ed7f52438896d0:40613b76138697041dac45cafe347bdc
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9hjkp3lpev/out/v1/1d92267fc4644b75934bb9be30f77d94/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - DRIVER TRACKER" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - DRIVER TRACKER
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - DRIVER TRACKER" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - DRIVER TRACKER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5b16183665abbcc90302a0a62c402fc:65eea0ca3c605b8d35b3780ed58f551d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qoagww87su/out/v1/4f52197b455644b78f9aa2801b418106/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - APPLE TV - 4K" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - APPLE TV - 4K
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - APPLE TV - 4K" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - APPLE TV - 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb1e6c51646986a652498a57b458d1d2:1b278aeea7b8978fa574ad0eb52758a2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - CRICFy LIVE " tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - CRICFy LIVE 
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - CRICFy LIVE " tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - CRICFy LIVE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://chatgpt.hereisman.net/playlist/53414/load-playlist
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - APPLE TV - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - APPLE TV - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - APPLE TV - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - APPLE TV - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/ac2635e55062b01925b85e38e422c5ed/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - SPORTSCAST - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - SPORTSCAST - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SPORTSCAST - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SPORTSCAST - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - FOX SPORTS - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - FOX SPORTS - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - FOX SPORTS - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - FOX SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/a457e04618ba530dae3232c3f67233a6/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - SKY SPORTS F1" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - SKY SPORTS F1
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY SPORTS F1" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/470e8fd3ddfe844ace4ab0211e53e51b/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - DAZN ESPANOL - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - DAZN ESPANOL - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - DAZN ESPANOL - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - DAZN ESPANOL - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/c9bf8a242f762595afad533557e538b7/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - SKY GERMAN - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - SKY GERMAN - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY GERMAN - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY GERMAN - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/d306bca69cb626f4e54baaac4e8005dd/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - SKY SPORTS ITALY" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - SKY SPORTS ITALY
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY SPORTS ITALY" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY SPORTS ITALY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://pushembdz.store/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://g001.sadhoofiton.shop/out/v2/8c121b7272256bf76f49e5ef81b42a41/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - RUSSIA FEED" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - RUSSIA FEED
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - RUSSIA FEED" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - RUSSIA FEED
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bl.rutube.ru/livestream/f0ddd7af7d20cad89139a493c62e5781/index.m3u8?s=vhffpbXtZKo9a0xXyYgc6g&e=1784551970&scheme=https
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - LOW SERVER" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - LOW SERVER
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - LOW SERVER" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://193.47.62.49/hls/RTRTRT.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - ELEVEN SPORTS" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - ELEVEN SPORTS
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - ELEVEN SPORTS" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - ELEVEN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - Tipik FRANCE - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - Tipik FRANCE - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - Tipik FRANCE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - Tipik FRANCE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd
 
-#EXTINF:-1 tvg-id="591" tvg-name="[ Starting Soon] Formula 1 - SKY SPORTS - AQ" tvg-logo="nulln" group-title="🟡 Starting Soon",[ Starting Soon] Formula 1 - SKY SPORTS - AQ
+#EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - SKY SPORTS - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - SKY SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
