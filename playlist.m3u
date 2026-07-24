@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 15:15:40 UTC
+# Last Updated: 2026-07-24 15:20:47 UTC
 
 #EXTINF:-1 tvg-id="591" tvg-name="[🔴 LIVE NOW] Formula 1 - FANCODE - AQ" tvg-logo="nulln" group-title=" Live Now",[🔴 LIVE NOW] Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -444,10 +444,17 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="10815" tvg-name="[ Starting Soon] Rosenborg BK vs Manchester United - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Rosenborg BK vs Manchester United - 
+#EXTINF:-1 tvg-id="10815" tvg-name="[ Starting Soon] Rosenborg BK vs Manchester United - CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Rosenborg BK vs Manchester United - CRICFy LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4529441.m3u8?txSecret=2709b5e704ff7ddea49a8dff6518aa8b&txTime=6A64D1C9
+
+#EXTINF:-1 tvg-id="10815" tvg-name="[ Starting Soon] Rosenborg BK vs Manchester United - LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Rosenborg BK vs Manchester United - LOW SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://193.47.62.48/hls/kkkk.m3u8
 
 #EXTINF:-1 tvg-id="10816" tvg-name="[ Starting Soon] FC Barcelona vs CE Europa - " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] FC Barcelona vs CE Europa - 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
