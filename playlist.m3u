@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-07-24 19:40:32 UTC
+# Last Updated: 2026-07-24 19:45:35 UTC
 
 #EXTINF:-1 tvg-id="10796" tvg-name="[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title=" Live Now",[🔴 LIVE NOW] Birmingham Phoenix vs Trent Rockets - WILLOW - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -371,28 +371,28 @@ https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.pro/live/MLB3/mono.m3u8
 
-#EXTINF:-1 tvg-id="10802" tvg-name="[⚪ Upcoming] Philadelphia Phillies vs New York Yankees - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Philadelphia Phillies vs New York Yankees - HD QUALITY
+#EXTINF:-1 tvg-id="10802" tvg-name="[ Starting Soon] Philadelphia Phillies vs New York Yankees - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Philadelphia Phillies vs New York Yankees - HD QUALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream2.pro/hls/Czajafjihafch18.m3u8
 
-#EXTINF:-1 tvg-id="10802" tvg-name="[⚪ Upcoming] Philadelphia Phillies vs New York Yankees - CRICFy MLB " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Philadelphia Phillies vs New York Yankees - CRICFy MLB 
+#EXTINF:-1 tvg-id="10802" tvg-name="[ Starting Soon] Philadelphia Phillies vs New York Yankees - CRICFy MLB " tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Philadelphia Phillies vs New York Yankees - CRICFy MLB 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB5
 #EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://instreams.pro/live/MLB5/mono.m3u8
 
-#EXTINF:-1 tvg-id="10803" tvg-name="[⚪ Upcoming] Washington Nationals vs Arizona Diamondbacks - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Washington Nationals vs Arizona Diamondbacks - HD QUALITY
+#EXTINF:-1 tvg-id="10803" tvg-name="[ Starting Soon] Washington Nationals vs Arizona Diamondbacks - HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Washington Nationals vs Arizona Diamondbacks - HD QUALITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgestream2.pro/hls/bzagLHzach19.m3u8
 
-#EXTINF:-1 tvg-id="10803" tvg-name="[⚪ Upcoming] Washington Nationals vs Arizona Diamondbacks - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="⚪ Upcoming",[⚪ Upcoming] Washington Nationals vs Arizona Diamondbacks - CRICFy MLB
+#EXTINF:-1 tvg-id="10803" tvg-name="[ Starting Soon] Washington Nationals vs Arizona Diamondbacks - CRICFy MLB" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🟡 Starting Soon",[ Starting Soon] Washington Nationals vs Arizona Diamondbacks - CRICFy MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://instream.click/jwp2-us.php?stream=MLB4
 #EXTVLCOPT:http-origin=https://instream.click/jwp2-us.php?stream=MLB4
